@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi there 👋 , I'm Zehra Ugurlu</h1>
-<h3 align="center">A passionate frontend developer from Istanbul, Turkey.</h3>
+<h3 align="center">A passionate front-end developer from Istanbul, Turkey.</h3>
 <img align="right" src = "https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" alt="zehraugurlu1" height="250" width="350" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="zeugurlu" /> </p>
@@ -9,9 +9,11 @@
 
 - 📫 You can send me an email at **zeugurlu@outlook.com**
 
+- 📄 For more details about me, click to my <a href= "https://docs.google.com/document/d/15Lqhegcx3Bmn1GIGTHqiXW6Oqw7HzG1YBclBFn3ijxs/edit?usp=sharing" target="blank">resume</a>
+
+
 - 💬 Ask me about **anything**
 
-- 📄 For more details about me, click to my <a href= "https://docs.google.com/document/d/15Lqhegcx3Bmn1GIGTHqiXW6Oqw7HzG1YBclBFn3ijxs/edit?usp=sharing" target="blank">resume</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zehraugurlu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zehraugurlu" height="30" width="40" /></a>
