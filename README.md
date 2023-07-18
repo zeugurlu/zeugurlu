@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
 <h1 align="center">Hi there 👋 , I'm Zehra Ugurlu</h1>
-<h3 align="center">A passionate front-end developer from Istanbul, Turkey.</h3>
+<h3 align="center">A passionate full-stack developer from Istanbul, Turkey.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="zeugurlu" /> </p>
