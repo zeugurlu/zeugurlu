@@ -9,7 +9,7 @@
 
 - 📫 You can send me an email at **zeugurlu@outlook.com**
 
-- 📄 For more details about me, click to my <a href= "https://docs.google.com/document/d/15Lqhegcx3Bmn1GIGTHqiXW6Oqw7HzG1YBclBFn3ijxs/edit?usp=sharing" target="blank">resume</a>
+- 📄 For more details about me, click to my <a href= "#" target="blank">resume</a>
 
 
 - 💬 Ask me about **anything**
